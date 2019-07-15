@@ -14,9 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-#include <Rcpp.h>
-using namespace Rcpp;
-
 #include <cstring>
 
 #include "QvdTableHeader.h"
